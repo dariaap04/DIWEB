@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
  /* Footer */
  footer {
     background: linear-gradient(135deg, var(--secondary-color) 0%, var(--secondary-light) 100%);
-    padding: 4rem 0 2rem;
+    padding: 3px;
     color: var(--white);
 }
 
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 0 15px rgba(212, 175, 55, 0.5);
 }
 
-.footer-brand {
+.footer-heading {
     font-family: 'Playfair Display', serif;
     font-size: 1.8rem;
     font-weight: 700;
